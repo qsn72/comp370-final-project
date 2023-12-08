@@ -1,2 +1,2 @@
 # comp370-final-project
-## data file
+## all the the source file for the project
